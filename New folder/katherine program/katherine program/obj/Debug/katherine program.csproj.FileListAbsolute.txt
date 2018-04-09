@@ -1,0 +1,6 @@
+c:\users\anthony\documents\visual studio 2013\Projects\katherine program\katherine program\bin\Debug\katherine program.exe.config
+c:\users\anthony\documents\visual studio 2013\Projects\katherine program\katherine program\bin\Debug\katherine program.exe
+c:\users\anthony\documents\visual studio 2013\Projects\katherine program\katherine program\bin\Debug\katherine program.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\katherine program\katherine program\obj\Debug\katherine program.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\katherine program\katherine program\obj\Debug\katherine program.exe
+c:\users\anthony\documents\visual studio 2013\Projects\katherine program\katherine program\obj\Debug\katherine program.pdb
